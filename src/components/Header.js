@@ -12,9 +12,10 @@ const Header = () => {
        
         <Box
         sx={{
-        backgroundImage:`url(${logo2})`,
+      
         height:98,
-        width:'100%'
+        width:'100%',
+ 
         }}
         >  
             <img src={logo2} alt='' height='98px' width='100%'/>

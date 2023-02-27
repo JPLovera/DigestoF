@@ -4,7 +4,7 @@ import TablaNormas from '../tables/TablaNormas'
 
 const MenuBase = () => {
   return (
-    <Box sx={{backgroundColor:'white'}}>
+    <Box sx={{backgroundColor:'white', display:'flex', flexDirection:'column', width:'100%', alignItems:'center'}}>
         <TablaNormas/>
     </Box>
   )

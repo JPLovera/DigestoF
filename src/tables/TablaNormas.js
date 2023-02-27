@@ -44,9 +44,9 @@ export default function TablaNormas() {
         userContext.setStateNormas(normas);
       }
   return (
-    <Box sx={{display:'flex', flexDirection:'column', alignItems:'end',  backgroundColor: 'whitesmoke', width:'80vw'}}>
+    <Box sx={{display:'flex', flexDirection:'column', width:'80vw'}}>
      
-        <Box sx={{margin:2}}>
+        <Box sx={{margin:1, display:'flex', flexDirection:'row', justifyContent:'end'}}>
         
         <Link to={'norma/nueva'} style={{ textDecoration: 'none', color:'black' }}>
             <Button variant='contained' sx={{backgrondColor:'black'}} size='small'>Nueva norma +</Button>

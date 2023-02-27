@@ -24,7 +24,7 @@ const Main = () => {
         <Box sx={{display:'flex', backgroundColor:''}}>
           <SideBar/>
           <Divider orientation="vertical" flexItem />
-          <Box sx={{ width:'100%', display:'flex', flexDirection:'column', justifyContent:'center',alignItems:'center', marginTop:1}}>
+          <Box sx={{ width:'90vw', display:'flex', flexDirection:'column', margin:1}}>
            
            
             <Outlet/>

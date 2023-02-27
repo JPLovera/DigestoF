@@ -27,7 +27,7 @@ const SideBar = () => {
   
 
   return (
-    <Box sx={{width:'30vh', display:'flex',flexDirection:'column', alignItems:'center'}}>
+    <Box sx={{ }}>
       
       <List component='nav'>
         <ListItem disablePadding>
@@ -67,6 +67,7 @@ const SideBar = () => {
             </ListItemButton>
           </Link>
         </ListItem>
+        <Divider/>
         <ListItem disablePadding>
           <Link to={'municipios'} style={{ textDecoration: 'none', color:'black', width:'100%'  }}>
             <ListItemButton selected={selectedIndex === 4}
@@ -96,8 +97,8 @@ const SideBar = () => {
         <Divider/>
         <ListItem disablePadding>
           <a href='http://digestomunicipal.com.ar/aulavirtual' style={{ textDecoration: 'none', color:'black', width:'100%'  }}>
-            <ListItemButton selected={selectedIndex === 6}
-            onClick={(event ) => handleListItemClick(event,6)}>
+            <ListItemButton selected={selectedIndex === 7}
+            onClick={(event ) => handleListItemClick(event,7)}>
               <ListItemText primary='Aula de capacitación' sx={buttonSX}/>
             </ListItemButton>
           </a>

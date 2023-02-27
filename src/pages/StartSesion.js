@@ -76,7 +76,7 @@ export default function StartSesion() {
             backgroundColor:'rgb(255,255,255,0.5)',
             borderRadius:'2%',
             padding:'50px',
-            width:'40%',
+            width:'50vw',
             marginTop: '30px'
           }}
         >

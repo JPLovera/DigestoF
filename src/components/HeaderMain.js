@@ -21,12 +21,12 @@ const HeaderMain = () => {
         backgroundSize:'cover',
         backgroundPosition:'center',
         height:80,
-        width:'100%'
+        width:'100vw'
         }}
         >
         
             <Box sx={{display:'flex', flexDirection:'row', justifyContent:'end'}}>
-              <Box sx={{display:'flex',borderRadius:2,alignItems:'center',padding:2,backgroundColor:'rgb(255,255,255,0.9)', margin:1}}>
+              <Box sx={{display:'flex',borderRadius:2,alignItems:'center',padding:2,backgroundColor:'rgb(255,255,255,0.7)', margin:1}}>
                   <Button  variant='outlined' size='small' startIcon={<PersonIcon/>}>
                     {userContext.stateUser.nombre} 
                   </Button>
