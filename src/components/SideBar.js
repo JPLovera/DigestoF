@@ -27,7 +27,7 @@ const SideBar = () => {
   
 
   return (
-    <Box sx={{ }}>
+    <Box sx={{width:'10em', display:'flex',flexDirection:'column', alignItems:'center'}}>
       
       <List component='nav'>
         <ListItem disablePadding>
@@ -67,7 +67,6 @@ const SideBar = () => {
             </ListItemButton>
           </Link>
         </ListItem>
-        <Divider/>
         <ListItem disablePadding>
           <Link to={'municipios'} style={{ textDecoration: 'none', color:'black', width:'100%'  }}>
             <ListItemButton selected={selectedIndex === 4}

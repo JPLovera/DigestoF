@@ -35,7 +35,7 @@ const TablaAnalisisE = () => {
         console.log(data.analisis)
       }
   return (
-    <Box sx={{display:'flex', flexDirection:'column', width:'80vw'}}>
+    <Box sx={{ width:'80vw'}}>
        
         <TableContainer component={Paper}>
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
