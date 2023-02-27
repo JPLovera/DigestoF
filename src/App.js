@@ -17,8 +17,8 @@ import TablaAnalisisD from './tables/TablaAnalisisD';
 
 function App() {
   return (
-    <div id='root'>
-      <BrowserRouter>
+ 
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <UserState>
           <Routes>
             <Route path='/' element = {<Login/>}>
@@ -38,7 +38,7 @@ function App() {
           </Routes>
         </UserState>
       </BrowserRouter>
-    </div>
+ 
   );
 }
 
