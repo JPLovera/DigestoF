@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DigestoF/static/css/main.073c9b0a.css",
+    "main.js": "/DigestoF/static/js/main.2dbd479b.js",
+    "static/js/787.82d8ccbb.chunk.js": "/DigestoF/static/js/787.82d8ccbb.chunk.js",
+    "static/media/ESCUDO GO. MISIONES.png": "/DigestoF/static/media/ESCUDO GO. MISIONES.5a656a4a42422513c8b1.png",
+    "static/media/BARRA 01.png": "/DigestoF/static/media/BARRA 01.b17ea06dcee4fc167191.png",
+    "static/media/BARRA-01.jpg": "/DigestoF/static/media/BARRA-01.49bab5e41d9ce991eda6.jpg",
+    "static/media/06.jpg": "/DigestoF/static/media/06.81562d7767b65080c98f.jpg",
+    "index.html": "/DigestoF/index.html",
+    "main.073c9b0a.css.map": "/DigestoF/static/css/main.073c9b0a.css.map",
+    "main.2dbd479b.js.map": "/DigestoF/static/js/main.2dbd479b.js.map",
+    "787.82d8ccbb.chunk.js.map": "/DigestoF/static/js/787.82d8ccbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2dbd479b.js"
+  ]
+}
