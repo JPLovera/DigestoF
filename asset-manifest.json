@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jplovera.github.io/digestof/static/css/main.073c9b0a.css",
-    "main.js": "/jplovera.github.io/digestof/static/js/main.7eac334b.js",
-    "static/js/787.82d8ccbb.chunk.js": "/jplovera.github.io/digestof/static/js/787.82d8ccbb.chunk.js",
-    "static/media/ESCUDO GO. MISIONES.png": "/jplovera.github.io/digestof/static/media/ESCUDO GO. MISIONES.5a656a4a42422513c8b1.png",
-    "static/media/BARRA 01.png": "/jplovera.github.io/digestof/static/media/BARRA 01.b17ea06dcee4fc167191.png",
-    "static/media/BARRA-01.jpg": "/jplovera.github.io/digestof/static/media/BARRA-01.49bab5e41d9ce991eda6.jpg",
-    "static/media/06.jpg": "/jplovera.github.io/digestof/static/media/06.81562d7767b65080c98f.jpg",
-    "index.html": "/jplovera.github.io/digestof/index.html",
-    "main.073c9b0a.css.map": "/jplovera.github.io/digestof/static/css/main.073c9b0a.css.map",
-    "main.7eac334b.js.map": "/jplovera.github.io/digestof/static/js/main.7eac334b.js.map",
-    "787.82d8ccbb.chunk.js.map": "/jplovera.github.io/digestof/static/js/787.82d8ccbb.chunk.js.map"
+    "main.css": "/digestof/static/css/main.073c9b0a.css",
+    "main.js": "/digestof/static/js/main.76759184.js",
+    "static/js/787.82d8ccbb.chunk.js": "/digestof/static/js/787.82d8ccbb.chunk.js",
+    "static/media/ESCUDO GO. MISIONES.png": "/digestof/static/media/ESCUDO GO. MISIONES.5a656a4a42422513c8b1.png",
+    "static/media/BARRA 01.png": "/digestof/static/media/BARRA 01.b17ea06dcee4fc167191.png",
+    "static/media/BARRA-01.jpg": "/digestof/static/media/BARRA-01.49bab5e41d9ce991eda6.jpg",
+    "static/media/06.jpg": "/digestof/static/media/06.81562d7767b65080c98f.jpg",
+    "index.html": "/digestof/index.html",
+    "main.073c9b0a.css.map": "/digestof/static/css/main.073c9b0a.css.map",
+    "main.76759184.js.map": "/digestof/static/js/main.76759184.js.map",
+    "787.82d8ccbb.chunk.js.map": "/digestof/static/js/787.82d8ccbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7eac334b.js"
+    "static/js/main.76759184.js"
   ]
 }
